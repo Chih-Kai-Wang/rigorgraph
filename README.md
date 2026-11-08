@@ -6,8 +6,8 @@
 
 [English](README.md) · [繁體中文](README.zh-TW.md) · [简体中文](README.zh-CN.md) · [日本語](README.ja.md)
 
-[![CI](https://github.com/f0909172434/rigorgraph/actions/workflows/ci.yml/badge.svg)](https://github.com/f0909172434/rigorgraph/actions/workflows/ci.yml)
-[![CodeQL](https://github.com/f0909172434/rigorgraph/actions/workflows/codeql.yml/badge.svg)](https://github.com/f0909172434/rigorgraph/actions/workflows/codeql.yml)
+[![CI](https://github.com/Chih-Kai-Wang/rigorgraph/actions/workflows/ci.yml/badge.svg)](https://github.com/Chih-Kai-Wang/rigorgraph/actions/workflows/ci.yml)
+[![CodeQL](https://github.com/Chih-Kai-Wang/rigorgraph/actions/workflows/codeql.yml/badge.svg)](https://github.com/Chih-Kai-Wang/rigorgraph/actions/workflows/codeql.yml)
 [![PyPI](https://img.shields.io/pypi/v/rigorgraph)](https://pypi.org/project/rigorgraph/)
 [![Python 3.11+](https://img.shields.io/pypi/pyversions/rigorgraph)](https://pypi.org/project/rigorgraph/)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
@@ -214,7 +214,7 @@ steps:
   - uses: actions/setup-python@5fda3b95a4ea91299a34e894583c3862153e4b97 # v7
     with:
       python-version: "3.12"
-  - uses: f0909172434/rigorgraph@v1.0.1
+  - uses: Chih-Kai-Wang/rigorgraph@v1.0.1
     id: rigorgraph
     with:
       path: .
@@ -226,7 +226,7 @@ The action writes a GitHub Job Summary, uploads the offline report even when the
 ## Develop from source
 
 ```bash
-git clone https://github.com/f0909172434/rigorgraph.git
+git clone https://github.com/Chih-Kai-Wang/rigorgraph.git
 cd rigorgraph
 python -m venv .venv
 python -m pip install -e ".[dev]"

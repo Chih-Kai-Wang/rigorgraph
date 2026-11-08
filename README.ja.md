@@ -84,7 +84,7 @@ my-research/
 
 このリポジトリには、[research-intake](skills/research-intake)、[capture-claim](skills/capture-claim)、[adversarial-verify](skills/adversarial-verify)、[release-audit](skills/release-audit) の 4 つのスキルと、ネイティブの `.codex-plugin/plugin.json` が含まれています。
 
-Codex では、`$skill-installer` に `f0909172434/rigorgraph` からのインストールを依頼するか、対応しているローカル／plugin marketplace のフローを使ってください。
+Codex では、`$skill-installer` に `Chih-Kai-Wang/rigorgraph` からのインストールを依頼するか、対応しているローカル／plugin marketplace のフローを使ってください。
 
 ## プライバシーと制限
 

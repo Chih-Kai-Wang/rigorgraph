@@ -40,9 +40,9 @@ dev = [
 rigorgraph = "rigorgraph.cli:app"
 
 [project.urls]
-Homepage = "https://github.com/f0909172434/rigorgraph"
-Repository = "https://github.com/f0909172434/rigorgraph"
-Issues = "https://github.com/f0909172434/rigorgraph/issues"
+Homepage = "https://github.com/Chih-Kai-Wang/rigorgraph"
+Repository = "https://github.com/Chih-Kai-Wang/rigorgraph"
+Issues = "https://github.com/Chih-Kai-Wang/rigorgraph/issues"
 
 [tool.hatch.build.targets.wheel]
 packages = ["src/rigorgraph"]

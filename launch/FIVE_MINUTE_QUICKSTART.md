@@ -7,7 +7,7 @@ This reproducible demo is pinned to `v0.1.0-beta.1`. It was fresh-installed from
 Requirements: Python 3.11 or newer. No account, API key, model provider, or network service is required after installation.
 
 ```bash
-python -m pip install "git+https://github.com/f0909172434/rigorgraph.git@v0.1.0-beta.1"
+python -m pip install "git+https://github.com/Chih-Kai-Wang/rigorgraph.git@v0.1.0-beta.1"
 rigorgraph demo --scenario math --open
 ```
 

@@ -84,7 +84,7 @@ rigorgraph --lang zh-TW quickstart 我的研究 --name "我的研究專案" --au
 
 本 repo 包含四個各有專責的技能：[research-intake](skills/research-intake)、[capture-claim](skills/capture-claim)、[adversarial-verify](skills/adversarial-verify) 與 [release-audit](skills/release-audit)。另外也附有原生的 `.codex-plugin/plugin.json`。
 
-在 Codex 中，可以請 `$skill-installer` 從 `f0909172434/rigorgraph` 安裝這些技能，或透過支援的本機／plugin marketplace 流程安裝整個 repo。
+在 Codex 中，可以請 `$skill-installer` 從 `Chih-Kai-Wang/rigorgraph` 安裝這些技能，或透過支援的本機／plugin marketplace 流程安裝整個 repo。
 
 ## 隱私與限制
 

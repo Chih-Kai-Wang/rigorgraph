@@ -408,7 +408,7 @@
       "type": "object"
     }
   },
-  "$id": "https://github.com/f0909172434/rigorgraph/schemas/evidence-bundle.schema.json",
+  "$id": "https://github.com/Chih-Kai-Wang/rigorgraph/schemas/evidence-bundle.schema.json",
   "additionalProperties": true,
   "properties": {
     "artifacts": {

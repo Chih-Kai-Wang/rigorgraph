@@ -4,10 +4,10 @@
   "description": "Verification-first research workflows and auditable claim-evidence graphs for AI agents.",
   "author": {
     "name": "Wang Chih Kai",
-    "url": "https://github.com/f0909172434"
+    "url": "https://github.com/Chih-Kai-Wang"
   },
-  "homepage": "https://github.com/f0909172434/rigorgraph",
-  "repository": "https://github.com/f0909172434/rigorgraph",
+  "homepage": "https://github.com/Chih-Kai-Wang/rigorgraph",
+  "repository": "https://github.com/Chih-Kai-Wang/rigorgraph",
   "license": "MIT",
   "keywords": ["research", "verification", "evidence", "ai-agents", "reproducibility"],
   "skills": "./skills/",
@@ -18,7 +18,7 @@
     "developerName": "Wang Chih Kai",
     "category": "Productivity",
     "capabilities": ["Read", "Write"],
-    "websiteURL": "https://github.com/f0909172434/rigorgraph",
+    "websiteURL": "https://github.com/Chih-Kai-Wang/rigorgraph",
     "defaultPrompt": [
       "Structure my research question without overstating evidence.",
       "Capture this claim and its supporting evidence.",

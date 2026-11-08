@@ -3,12 +3,12 @@
 These three self-contained reports were generated from the repository's built-in
 demo fixtures on September 5, 2026:
 
-- [Valid math demo](https://f0909172434.github.io/examples/rigorgraph/math.html)
+- [Valid math demo](https://chih-kai-wang.github.io/examples/rigorgraph/math.html)
   — audit `PASS`, process exit 0.
-- [Invalid promotion demo](https://f0909172434.github.io/examples/rigorgraph/invalid.html)
+- [Invalid promotion demo](https://chih-kai-wang.github.io/examples/rigorgraph/invalid.html)
   — audit `FAIL`, process exit 1, with `RG_EVIDENCE_TYPE_MISSING` and
   `RG_ACCEPT_EVIDENCE_UNCHECKED`.
-- [Evidence changed after review](https://f0909172434.github.io/examples/rigorgraph/tampered.html)
+- [Evidence changed after review](https://chih-kai-wang.github.io/examples/rigorgraph/tampered.html)
   — a copy of the valid demo with one sentence appended to its evidence file;
   audit `FAIL`, process exit 1, with `RG_HASH_MISMATCH`.
 

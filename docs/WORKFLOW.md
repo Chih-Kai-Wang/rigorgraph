@@ -161,7 +161,7 @@ steps:
       python-version: "3.12"
   - name: Audit research records
     id: rigorgraph
-    uses: f0909172434/rigorgraph@v1.0.1
+    uses: Chih-Kai-Wang/rigorgraph@v1.0.1
     with:
       path: research-project
       fail-on: error
