@@ -19,4 +19,4 @@ Turn AI research into auditable claim-evidence graphs.
 - Independent verification and deterministic release gates
 - No telemetry or built-in paid model API
 
-[Repository](https://github.com/f0909172434/rigorgraph) · [ProofWeave math case study](https://github.com/f0909172434/proofweave-math-lab)
+[Repository](https://github.com/Chih-Kai-Wang/rigorgraph) · [ProofWeave math case study](https://github.com/Chih-Kai-Wang/proofweave-math-lab)

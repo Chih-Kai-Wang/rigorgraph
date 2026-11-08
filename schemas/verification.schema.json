@@ -24,7 +24,7 @@
       "type": "string"
     }
   },
-  "$id": "https://github.com/f0909172434/rigorgraph/schemas/verification.schema.json",
+  "$id": "https://github.com/Chih-Kai-Wang/rigorgraph/schemas/verification.schema.json",
   "additionalProperties": false,
   "properties": {
     "checked_evidence_ids": {

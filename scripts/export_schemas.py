@@ -30,7 +30,7 @@ def expected_schemas() -> dict[str, str]:
     output: dict[str, str] = {}
     for name, model in MODELS.items():
         schema = model.model_json_schema(mode="validation")
-        schema["$id"] = f"https://github.com/f0909172434/rigorgraph/schemas/{name}.schema.json"
+        schema["$id"] = f"https://github.com/Chih-Kai-Wang/rigorgraph/schemas/{name}.schema.json"
         output[f"{name}.schema.json"] = (
             json.dumps(schema, ensure_ascii=False, indent=2, sort_keys=True) + "\n"
         )

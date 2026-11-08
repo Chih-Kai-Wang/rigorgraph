@@ -26,7 +26,7 @@
       "type": "string"
     }
   },
-  "$id": "https://github.com/f0909172434/rigorgraph/schemas/claim.schema.json",
+  "$id": "https://github.com/Chih-Kai-Wang/rigorgraph/schemas/claim.schema.json",
   "additionalProperties": false,
   "properties": {
     "authors": {

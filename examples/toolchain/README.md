@@ -17,11 +17,11 @@ Use Python 3.11+ and Node 24. From this RigorGraph checkout:
 
 ```bash
 python -m pip install -e .
-git clone https://github.com/f0909172434/honest-ci.git ../honest-ci
+git clone https://github.com/Chih-Kai-Wang/honest-ci.git ../honest-ci
 git -C ../honest-ci checkout 175a3149315ac7efeb3add714481990945c5294b
-git clone https://github.com/f0909172434/finite-witness-webmcp.git ../finite-witness-webmcp
+git clone https://github.com/Chih-Kai-Wang/finite-witness-webmcp.git ../finite-witness-webmcp
 git -C ../finite-witness-webmcp checkout 55ed2deb7fbe1087d462fdbaec5a7878f901ca57
-git clone https://github.com/f0909172434/proofweave-math-lab.git ../proofweave-math-lab
+git clone https://github.com/Chih-Kai-Wang/proofweave-math-lab.git ../proofweave-math-lab
 git -C ../proofweave-math-lab checkout a144bef4d5bf04035a2174e24963b864b74d2215
 python examples/toolchain/run.py --honest-cli ../honest-ci/dist/cli/index.js --finite-root ../finite-witness-webmcp --proofweave-root ../proofweave-math-lab --output toolchain-output
 ```

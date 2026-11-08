@@ -12,7 +12,7 @@ RigorGraph is a public-beta project. Security fixes are made against the latest 
 
 ## Report a vulnerability
 
-Use a [private GitHub Security Advisory](https://github.com/f0909172434/rigorgraph/security/advisories/new). Do not open a public issue for a suspected vulnerability.
+Use a [private GitHub Security Advisory](https://github.com/Chih-Kai-Wang/rigorgraph/security/advisories/new). Do not open a public issue for a suspected vulnerability.
 
 Please include the affected version or commit, operating system, impact, a minimal sanitized reproduction, and any proposed mitigation. Remove credentials, private research records, unpublished findings, and unnecessary exploit payloads. The maintainer will confirm receipt and coordinate remediation and disclosure on a best-effort basis.
 

@@ -13,7 +13,7 @@
       "type": "string"
     }
   },
-  "$id": "https://github.com/f0909172434/rigorgraph/schemas/evidence.schema.json",
+  "$id": "https://github.com/Chih-Kai-Wang/rigorgraph/schemas/evidence.schema.json",
   "additionalProperties": false,
   "properties": {
     "created_at": {

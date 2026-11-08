@@ -32,7 +32,7 @@ def honest_bundle(*, status: str = "passed", title: str = "HonestCI evidence") -
         "created_at": "2026-07-29T00:00:00Z",
         "producer": {"name": "honest-ci", "version": "1.0.0-rc.1"},
         "provenance": {
-            "repository": "f0909172434/honest-ci",
+            "repository": "Chih-Kai-Wang/honest-ci",
             "commit": "a" * 40,
             "ref": "refs/heads/main",
         },

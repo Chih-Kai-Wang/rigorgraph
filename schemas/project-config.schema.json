@@ -1,5 +1,5 @@
 {
-  "$id": "https://github.com/f0909172434/rigorgraph/schemas/project-config.schema.json",
+  "$id": "https://github.com/Chih-Kai-Wang/rigorgraph/schemas/project-config.schema.json",
   "additionalProperties": false,
   "properties": {
     "fail_on": {
